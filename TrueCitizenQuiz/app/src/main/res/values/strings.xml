@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TrueCitizenQuiz</string>
+    <string name="quiz_question">India is independent</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="ques1">Lucknow is capital of up</string>
+    <string name="ques2">Mumbai is capital of India</string>
+    <string name="ques3">New York is in USA</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s wrong</string>
+    <string name="next_question">Next</string>
+    <string name="previous_question">Previous</string>
+</resources>

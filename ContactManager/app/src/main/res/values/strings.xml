@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ContactManager</string>
+    <string name="drop_table">Drop table if exists</string>
+    <string name="name_goes_here">Name goes here</string>
+    <string name="icon_button">Icon Button</string>
+    <string name="name">Name :</string>
+    <string name="phone">Phone :</string>
+</resources>

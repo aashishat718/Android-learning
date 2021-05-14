@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntroFireBase</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_thoughts">Enter thoughts</string>
+    <string name="save_text">Save</string>
+    <string name="success_text">Success</string>
+    <string name="fail_text">Failed</string>
+    <string name="show_text">Show data</string>
+    <string name="update">UPDATE</string>
+    <string name="delete">Delete</string>
+    <string name="sth_went_wrong">Something went wrong</string>
+</resources>
